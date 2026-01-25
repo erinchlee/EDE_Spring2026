@@ -15,7 +15,7 @@ This exercise accompanies the introductory material in Environmental Data Analyt
 5.  When you have completed the assignment, **Knit** the text and code into a single PDF file.
 6.  After Knitting, submit the completed exercise (PDF file) to the appropriate assignment section on Canvas.
 
-7.  Initial here to acknowledge that you did not use AI at all in completing this assignment: ___
+7.  Initial here to acknowledge that you did not use AI at all in completing this assignment:E.L
 
 ---
 
@@ -24,23 +24,23 @@ Enter answers to the questions just below the >Answer: prompt.
 
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
-> Answer: 
+> Answer: I do not have previous experience with data analytics, R, or Git, either through formal coursework or informal training. 
 
 2. Are there any components of the course about which you feel confident?
 
-> Answer: 
+> Answer: Not at this time. The course content and tools are new to me.
 
 3. Are there any components of the course about which you feel apprehensive?
 
-> Answer: 
+> Answer: I feel apprehensive about the programming and version control components, as these tools are new to me.
 
 4. Describe a dataset you have used in the past. Explain whether it was a primary or secondary dataset. 
 
-> Answer:
+> Answer: In my previous work at South Korea’s Ministry of Trade, Industry and Energy, I was exposed to electricity market statistics that included monthly generation by energy source and electricity market prices.This was a secondary dataset, as the data were routinely collected and compiled by government agencies for administrative and policy purposes.
 
 5. Would you describe the day of the month as a nominal, ordinal, interval, or ratio number? Explain your reasoning.
 
-> Answer: 
+> Answer: The day of the month is interval data because it has meaningful and equal intervals (for example, the difference between day 5 and day 10 is 5 days) and does not have a true absolute zero.
 
 ---
 
@@ -48,7 +48,7 @@ Enter answers to the questions just below the >Answer: prompt.
 
 Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository and that you have updated your course README file, committed those changes, and pushed them to your GitHub account. 
 
-> Answer: 
+> Answer: https://github.com/erinchlee/EDE_Spring2026
 
 ---
 
